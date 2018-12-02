@@ -1,0 +1,43 @@
+.hero {
+  text-align: center;
+}
+
+.brand-logo {
+  max-width: 100%;
+  width: 300px;
+  margin: 0;
+}
+
+.social-logo {
+  width: 2em;
+  margin-bottom: 0;
+  padding: .5em;
+  box-sizing: content-box;
+  display: inline-block;
+}
+
+.social-logo, .social-link {
+  vertical-align: middle;
+}
+
+.link {
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+    color: palevioletred;
+  }
+}
+
+.links-container {
+  list-style: none;
+  margin: 0;
+  display: flex;
+  -ms-align-items: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.links-container li {
+  margin: 0 1em;
+}
