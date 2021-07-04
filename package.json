@@ -35,7 +35,7 @@
     "gotrue-js": "^0.9.1",
     "gulp": "^4.0.2",
     "gulp-babel": "^8.0.0",
-    "gulp-postcss": "^8.0.0",
+    "gulp-postcss": "^9.0.0",
     "gulp-util": "^3.0.7",
     "imports-loader": "^3.0.0",
     "netlify-cms": "^2.1.1",
