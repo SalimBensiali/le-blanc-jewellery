@@ -5182,9 +5182,9 @@ neo-async@^2.6.2:
   version "2.6.2"
   resolved "https://registry.yarnpkg.com/neo-async/-/neo-async-2.6.2.tgz#b4aafb93e3aeb2d8174ca53cf163ab7d7308305f"
 
-netlify-cms-app@^2.15.20:
-  version "2.15.20"
-  resolved "https://registry.yarnpkg.com/netlify-cms-app/-/netlify-cms-app-2.15.20.tgz#8ed096f14b412dbff4f2bde668af5e23e95f9da8"
+netlify-cms-app@^2.15.21:
+  version "2.15.21"
+  resolved "https://registry.yarnpkg.com/netlify-cms-app/-/netlify-cms-app-2.15.21.tgz#d574aff52bc87257bba8e97190e439a469e4920e"
   dependencies:
     "@emotion/core" "^10.0.35"
     "@emotion/styled" "^10.0.27"
@@ -5211,7 +5211,7 @@ netlify-cms-app@^2.15.20:
     netlify-cms-widget-colorstring "^1.1.1"
     netlify-cms-widget-date "^2.6.2"
     netlify-cms-widget-datetime "^2.7.2"
-    netlify-cms-widget-file "^2.10.1"
+    netlify-cms-widget-file "^2.11.0"
     netlify-cms-widget-image "^2.8.1"
     netlify-cms-widget-list "^2.9.2"
     netlify-cms-widget-map "^1.5.0"
@@ -5402,9 +5402,9 @@ netlify-cms-widget-datetime@^2.7.2:
   version "2.7.2"
   resolved "https://registry.yarnpkg.com/netlify-cms-widget-datetime/-/netlify-cms-widget-datetime-2.7.2.tgz#6f97735dd3461ff86f1b89c231ef6d8466c8dea3"
 
-netlify-cms-widget-file@^2.10.1:
-  version "2.10.1"
-  resolved "https://registry.yarnpkg.com/netlify-cms-widget-file/-/netlify-cms-widget-file-2.10.1.tgz#cd264ed04a24c747e6271fa8d915a1d93471c496"
+netlify-cms-widget-file@^2.11.0:
+  version "2.11.0"
+  resolved "https://registry.yarnpkg.com/netlify-cms-widget-file/-/netlify-cms-widget-file-2.11.0.tgz#98594ed07a57215efcb2d0ff62cdbfad31e8adb1"
   dependencies:
     array-move "3.0.1"
     common-tags "^1.8.0"
@@ -5480,13 +5480,13 @@ netlify-cms-widget-text@^2.4.1:
   dependencies:
     react-textarea-autosize "^8.0.0"
 
-netlify-cms@^2.10.140:
-  version "2.10.140"
-  resolved "https://registry.yarnpkg.com/netlify-cms/-/netlify-cms-2.10.140.tgz#dcfca42d9c478ffdfa8f7b59ba5ac6c11296e03e"
+netlify-cms@^2.10.141:
+  version "2.10.141"
+  resolved "https://registry.yarnpkg.com/netlify-cms/-/netlify-cms-2.10.141.tgz#ae70abac36347e80e5e0a46972f109a14f08fdfd"
   dependencies:
     codemirror "^5.46.0"
     create-react-class "^15.7.0"
-    netlify-cms-app "^2.15.20"
+    netlify-cms-app "^2.15.21"
     netlify-cms-media-library-cloudinary "^1.3.10"
     netlify-cms-media-library-uploadcare "^0.5.10"
     react "^16.8.4"
